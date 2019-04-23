@@ -5,6 +5,8 @@ when blind peoples travel the street no have many security for hym, well we , de
 when security , hes send a bip, noise and light for people travel.
 see the video!
 
+This prototype work in arduino.
+
 http://rlmtecnology.blogspot.com/
 
 https://www.youtube.com/watch?v=BeI8V8T9VFw
